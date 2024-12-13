@@ -156,8 +156,6 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1 tvg-name="FoxNews" tvg-logo="https://live.fanmingming.com/tv/FoxNews.png" group-title="国际台",Fox新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-name="NHK世界" tvg-logo="https://live.fanmingming.com/tv/NHK世界.png" group-title="国际台",NHK世界
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="新加坡国际" tvg-logo="https://live.fanmingming.com/tv/新加坡国际.png" group-title="国际台",新加坡国际
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="VOA美国之音" tvg-logo="https://live.fanmingming.com/tv/VOA美国之音.png" group-title="国际台",VOA美国之音
@@ -170,6 +168,7 @@ https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-name="NHKWorld" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际台",NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="ABCNewsAustralia" tvg-logo="https://live.fanmingming.com/tv/ABCNewsAustralia.png" group-title="国际台",ABC News Australia
 https://stream1.freetv.fun/abc-news-australia-1.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://live.fanmingming.com/tv/Bloomberg.png" group-title="国际台", Bloomberg
