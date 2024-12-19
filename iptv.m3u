@@ -122,7 +122,7 @@ http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="港澳台",凤凰卫视
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
+#https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" group-title="港澳台",寰宇新闻
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1  tvg-name="东森新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/東森新聞.png"  group-title="港澳台",东森新闻
@@ -167,7 +167,7 @@ https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-name="NHKWorld" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际台",NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-name="ABCNewsAustralia" tvg-logo="https://live.fanmingming.com/tv/ABCNewsAustralia.png" group-title="国际台",ABC News Australia
 https://stream1.freetv.fun/abc-news-australia-1.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://live.fanmingming.com/tv/Bloomberg.png" group-title="国际台", Bloomberg
