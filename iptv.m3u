@@ -114,8 +114,6 @@ http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="港澳台",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://live.fanmingming.com/tv/美亞電影.png" group-title="港澳台",美亞電影
-http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="港澳台",凤凰香港
@@ -127,8 +125,6 @@ http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1  tvg-name="东森新闻" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/東森新聞.png"  group-title="港澳台",东森新闻
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="港澳台",东森电影
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="港澳台",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="港澳台",中视HD
@@ -172,5 +168,35 @@ http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 https://stream1.freetv.fun/abc-news-australia-1.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://live.fanmingming.com/tv/Bloomberg.png" group-title="国际台", Bloomberg
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://live.fanmingming.com/tv/NABTV.png" group-title="国际台",NBA TV
+
+
+#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://live.fanmingming.com/tv/NABTV.png" group-title="体育台",NBA TV
 https://stream1.freetv.fun/nba-tv-1.ctv
+#EXTINF:-1 tvg-name="SkySports" tvg-logo="https://live.fanmingming.com/tv/SkySports.png" group-title="体育台",SkySports
+https://stream1.freetv.fun/skysports-7.ctv
+#EXTINF:-1  tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png" group-title="体育台",睛彩篮球
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育台",五星体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1  tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育台",魅力足球
+https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
+#EXTINF:-1  tvg-name="iHOT爱体育" tvg-logo="https://live.fanmingming.com/tv/iHOT爱体育.png" group-title="体育台",iHOT爱体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
+
+
+#EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://live.fanmingming.com/tv/美亞電影.png" group-title="电影台",美亞電影
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="电影台",东森电影
+http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 tvg-name="NEWTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV动作电影.png" group-title="电影台",NEWTV动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-name="NEWTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="电影台",NEWTV惊悚悬疑
+http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
+#EXTINF:-1 tvg-name="NEWTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV黑莓电影.png" group-title="电影台",NEWTV黑莓电影
+http://[2409:8087:74d9:21::6]/270000001128/9900000095/index.m3u8
+#EXTINF:-1 tvg-name="AMC电影" tvg-logo="https://live.fanmingming.com/tv/AMC电影.png" group-title="电影台",AMC电影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="电影台",龙华电影
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1  tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png"  group-title="电影台",CHC家庭影院
+http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
