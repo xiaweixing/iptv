@@ -168,10 +168,14 @@ http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 https://stream1.freetv.fun/abc-news-australia-1.m3u8
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://live.fanmingming.com/tv/Bloomberg.png" group-title="国际台", Bloomberg
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-name="BloombergTVAsia.hk" tvg-logo="https://live.fanmingming.com/tv/BloombergAsia.png" group-title="国际台",Bloomberg TV Asia
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 
 #EXTINF:-1 tvg-name="NBATV" tvg-logo="https://live.fanmingming.com/tv/NABTV.png" group-title="体育台",NBA TV
 https://stream1.freetv.fun/nba-tv-1.ctv
+#EXTINF:-1 tvg-name="FoxSport1" tvg-logo="https://live.fanmingming.com/tv/FoxSport1.png" group-title="体育台",Fox Sport 1
+https://list.iptvcat.com/my_list/s/aef75d4725d4e1ae6812b0504514c158.m3u8
 #EXTINF:-1 tvg-name="SkySports" tvg-logo="https://live.fanmingming.com/tv/SkySports.png" group-title="体育台",SkySports
 https://stream1.freetv.fun/skysports-7.ctv
 #EXTINF:-1  tvg-name="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png" group-title="体育台",睛彩篮球
@@ -200,3 +204,9 @@ http://61.221.215.25:8800/hls/43/index.m3u8
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1  tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png"  group-title="电影台",CHC家庭影院
 http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+#EXTINF:-1 tvg-name="HBO2East" tvg-logo="https://i.imgur.com/Ql7LCYV.png" group-title="电影台",HBO2 East
+https://list.iptvcat.com/my_list/s/35683a996d90df434a4e82db529c7eec.m3u8
+#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://live.fanmingming.com/tv/ParamountMovieChannel.png" group-title="电影台",Paramount Movie Channel
+https://list.iptvcat.com/my_list/s/54eb7b2e7db77028e6b6475457cfc339.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Crime Movies" tvg-logo="https://live.fanmingming.com/tv/PlutoTVCrimeMovies.png" group-title="电影台",Pluto TV Crime Movies
+https://list.iptvcat.com/my_list/s/07cbaeb4e7b0542139d221977711edbd.m3u8
