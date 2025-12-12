@@ -2,67 +2,53 @@
 
 #央视高清
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视高清",CCTV1
-http://ygbh.site/php/bfgd.php?id=488
+https://stream1.freetv.fun/cctv1zong-he-5.ctv
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="央视高清",CCTV2
-http://ygbh.site/php/bfgd.php?id=061
+https://stream1.freetv.fun/cctv2-cai-jing-4.ctv
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="央视高清",CCTV3
-http://ygbh.site/php/bfgd.php?id=062
+https://stream1.freetv.fun/cctv3-zong-yi-3.ctv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="央视高清",CCTV4
-http://ygbh.site/php/bfgd.php?id=063
+https://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-4.ctv
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="央视高清",CCTV5
-http://ygbh.site/php/bfgd.php?id=064
+https://stream1.freetv.fun/cctv5-ti-yu-3.ctv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="央视高清",CCTV5+
-http://ygbh.site/php/bfgd.php?id=246
+https://stream1.freetv.fun/46118cd0438ddbb2d6f349706132ced2104495cf4cf1019ef84d89465e048ca6.ctv
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="央视高清",CCTV6
-http://ygbh.site/php/bfgd.php?id=065
+https://stream1.freetv.fun/cctv6-dian-ying-2.ctv
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="央视高清",CCTV7
-http://ygbh.site/php/bfgd.php?id=127
+https://stream1.freetv.fun/cctv7-jun-shi-nong-ye-1.ctv
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="央视高清",CCTV8
-http://ygbh.site/php/bfgd.php?id=066
+https://stream1.freetv.fun/cctv8-dian-shi-ju-15.ctv
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="央视高清",CCTV9
-http://ygbh.site/php/bfgd.php?id=128
+https://stream1.freetv.fun/cctv9-ji-lu-5.ctv
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="央视高清",CCTV10
-http://ygbh.site/php/bfgd.php?id=129
+https://stream1.freetv.fun/d18dba3dd202234ee5b59d8d926605fdb3b64809d47a14033b5f0d03f0eca9d0.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="央视高清",CCTV11
-http://ygbh.site/php/bfgd.php?id=130
+https://stream1.freetv.fun/cctv11-xi-qu-6.ctv
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="央视高清",CCTV12
-http://ygbh.site/php/bfgd.php?id=131
+https://stream1.freetv.fun/cctv12hd-1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="央视高清",CCTV13
-http://ygbh.site/php/bfgd.php?id=067
+https://stream1.freetv.fun/cctv13-xin-wen-5.ctv
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="央视高清",CCTV14
-http://ygbh.site/php/bfgd.php?id=132
+https://stream1.freetv.fun/cctv14hd-1.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="央视高清",CCTV15
-http://ygbh.site/php/bfgd.php?id=133
+https://stream1.freetv.fun/cctv15-yin-le-13.ctv
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="央视高清",CCTV16
-http://p.ytelc.com/169l/0/cctv.php?id=cctv16
+https://stream1.freetv.fun/cctv16-27.ctv
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="央视高清",CCTV17
-http://ygbh.site/php/bfgd.php?id=204
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/求索科学.png" group-title="央视高清",求索科学
-http://ygbh.site/php/bfgd.php?id=286
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/世界地理.png" group-title="央视高清",世界地理
-http://ygbh.site/php/bfgd.php?id=177
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/求索动物.png" group-title="央视高清",求索动物
-http://ygbh.site/php/bfgd.php?id=287
-#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/求索生活.png" group-title="央视高清",求索生活
-http://ygbh.site/php/bfgd.php?id=288
-#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/家庭影院.png" group-title="央视高清",家庭影院
-http://ygbh.site/php/bfgd.php?id=289
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="央视高清",卡酷少儿
-http://ygbh.site/php/bfgd.php?id=106
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/金鹰卡通.png" group-title="央视高清",金鹰卡通
-http://ygbh.site/php/bfgd.php?id=105
+https://stream1.freetv.fun/cctv17-4.ctv
 
 #卫视频道
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视.png" group-title="卫视频道",北京卫视
-http://ygbh.site/php/bfgd.php?id=083
+https://stream1.freetv.fun/bei-jing-wei-shi-68.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天津卫视.png" group-title="卫视频道",天津卫视
-http://ygbh.site/php/bfgd.php?id=084
+https://stream1.freetv.fun/4bafa8b28ae13b03c0a8748b7290f2e013080913a8ce1db58a50237919388fb0.ctv
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://ygbh.site/php/bfgd.php?id=085
+https://stream1.freetv.fun/jiang-su-wei-shi-56.ctv
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://ygbh.site/php/bfgd.php?id=086
+https://stream1.freetv.fun/241624cf1aad4edd1c02fe88cd1005fb5b5aa65edcf69d8d606fcd64567c8814.ctv
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="卫视频道",东方卫视
-http://ygbh.site/php/bfgd.php?id=093
+https://stream1.freetv.fun/f46dc4f2d00b02ac6fa95f72948cd951fa1d855920cab31e2bf7815953198730.ctv
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://ygbh.site/php/bfgd.php?id=094
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/广东卫视.png" group-title="卫视频道",广东卫视
